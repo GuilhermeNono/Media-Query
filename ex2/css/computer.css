@@ -1,0 +1,13 @@
+
+    .horizontal {
+        width: 100%;
+        height: auto;
+        display: block;
+    }
+
+    .vertical {
+        width: 100%;
+        height: 100%;
+        display: none;
+
+    }
